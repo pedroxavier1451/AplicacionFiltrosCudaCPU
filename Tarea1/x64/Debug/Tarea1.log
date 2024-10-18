@@ -20,7 +20,7 @@ C:\Users\pedro\source\repos\Tarea1\Tarea1\stb_image.h(6973): warning #550-D: var
               ^
   
   kernel.cu
-  tmpxft_00007710_00000000-7_kernel.cudafe1.cpp
+  tmpxft_0000488c_00000000-7_kernel.cudafe1.cpp
      Creando biblioteca C:\Users\pedro\source\repos\Tarea1\x64\Debug\Tarea1.lib y objeto C:\Users\pedro\source\repos\Tarea1\x64\Debug\Tarea1.exp
 LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
   Tarea1.vcxproj -> C:\Users\pedro\source\repos\Tarea1\x64\Debug\Tarea1.exe
